@@ -1,0 +1,26 @@
+[
+    {
+      "nome": "Luiza da Cunha",
+      "idade": 57,
+      "trabalho": "Jogador de handebol",
+      "email": "valentina88@example.org",
+      "cidade": "Novais do Campo",
+      "telefone": "+55 (061) 7925 4672"
+    },
+    {
+      "nome": "Sra. Ana Vitória Siqueira",
+      "idade": 46,
+      "trabalho": "Escritor",
+      "email": "ana-luiza02@example.net",
+      "cidade": "Sampaio das Flores",
+      "telefone": "(081) 6467 7991"
+    },
+    {
+      "nome": "Srta. Alícia Brito",
+      "idade": 27,
+      "trabalho": "Salva-vidas",
+      "email": "cavalcantepedro@example.net",
+      "cidade": "Nunes do Sul",
+      "telefone": "0300-659-5532"
+    }
+  ]
