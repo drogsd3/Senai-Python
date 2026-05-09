@@ -1,7 +1,7 @@
 import google.generativeai as genai # type: ignore
 
 # Use sua chave de API aqui
-GOOGLE_API_KEY='AIzaSyBb7jb8XqiKiY9HcP0RGL4HVgjdPWMljTE'
+GOOGLE_API_KEY=""
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Escolha o modelo que deseja usar
